@@ -1,7 +1,6 @@
 public class Book {
 
-    // This is your working class.
-    public class Book {
+    
     private String title;
     private String author;
     private String language;
